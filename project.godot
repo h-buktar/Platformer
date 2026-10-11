@@ -18,10 +18,6 @@ config/features=PackedStringArray("4.7", "GL Compatibility")
 
 buses/default_bus_layout="uid://bbxij0qlpsswv"
 
-[autoload]
-
-Music="*uid://bgm4w3aauu7e7"
-
 [display]
 
 window/stretch/mode="canvas_items"
