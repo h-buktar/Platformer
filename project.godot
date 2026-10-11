@@ -14,6 +14,14 @@ config/name="platformer"
 run/main_scene="uid://qrhju8j4q7de"
 config/features=PackedStringArray("4.7", "GL Compatibility")
 
+[audio]
+
+buses/default_bus_layout="uid://bbxij0qlpsswv"
+
+[autoload]
+
+Music="*uid://bgm4w3aauu7e7"
+
 [display]
 
 window/stretch/mode="canvas_items"
